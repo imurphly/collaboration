@@ -1,0 +1,3 @@
+When solving the five order controller, the algorithm can't converge. 
+I need to know, how the small search domain will make the algorithm converge. 
+So, according the prior knowledge from LMI controller result, the init domain.
